@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="IT Procurement Development Table" language="en" table="x_60297_it_procure_it_procurement_development_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IT Procurement Development Table</label>
+            <language>en</language>
+            <name>x_60297_it_procure_it_procurement_development_table</name>
+            <plural>IT Procurement Development Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-23 13:20:59</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>6506aa930f32320063e53b6ce1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IT Procurement Development Table</sys_name>
+            <sys_package display_value="IT Procurement Development" source="x_60297_it_procure">09066a530f32320063e53b6ce1050e96</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="IT Procurement Development">09066a530f32320063e53b6ce1050e96</sys_scope>
+            <sys_update_name>sys_documentation_x_60297_it_procure_it_procurement_development_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-23 13:20:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
